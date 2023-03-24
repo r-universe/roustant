@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DiceKriging"]
+	path = DiceKriging
+	url = https://github.com/cran/DiceKriging
+	shallow = true
+	registered = true
+[submodule "kergp"]
+	path = kergp
+	url = https://github.com/cran/kergp
+	shallow = true
+	registered = true
